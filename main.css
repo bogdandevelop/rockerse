@@ -1,0 +1,48 @@
+body{
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  
+  
+
+
+  }
+  .clearfix:after {
+  content:'';
+  display: table;
+  width: 100%;
+  clear: both;
+  }
+
+
+
+
+
+
+#block1{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(38, 0, 255);
+  
+}
+
+
+
+
+
+#logo{
+  color:red ;
+  width: 30%;
+  height: auto;
+  background-color: seagreen;
+
+}
+
+
+
+#block2{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(0, 255, 21);
+  margin-top: 30%;
+}
