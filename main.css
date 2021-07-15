@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(255, 0, 119);
+    max-height: 300px;
+    height: 300px;
+
+}
+
+.header2{
+    background-color: chartreuse;
+    max-height: 200px;
+    height: 200px;
+    width: auto;
+   
+   
+}
+
+
+.header3{
+    background-color: chartreuse;
+    max-height: 400px;
+    height: 400px;
+  border-radius: 200px;
+
+
+}
+
+.logo{
+    margin-left: 13%;
+    padding-top: 10%;
+    position:absolute;
+
+ 
+}
