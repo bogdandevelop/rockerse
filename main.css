@@ -1,0 +1,114 @@
+
+body{
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    
+  
+  
+    }
+    .clearfix:after {
+    content:'';
+    display: table;
+    width: 100%;
+    clear: both;
+    }
+  
+
+
+
+
+.header{
+   /* background-color: rgb(255, 0, 119);*/
+    max-height: 780px;
+    height: 780px;
+
+}
+
+.header2{
+    background-color: chartreuse;
+    max-height: 200px;
+    height: 200px;
+    
+   
+   
+}
+
+
+
+
+
+
+.header3{
+    background-color: chartreuse;
+    max-height: 770px;
+    height: 770px;
+  border-radius: 200px;
+
+
+}
+
+.logo{
+    margin-left: 15%;
+    padding-top: 15%;
+    position:relative;
+
+ width: 70%;
+}
+
+
+
+
+  
+
+
+#services{
+    /*background-color: rgb(255, 0, 0);*/
+    height: 400px;
+}
+
+
+
+
+
+
+
+.blok{
+  
+    height: 70%;
+    width: 24%;
+    margin: 4%;
+    float: inline-end;
+    float: left;
+   
+    /*border: 2px solid rgb(0, 255, 42); /* Параметры рамки */
+}
+
+
+
+
+.text2{
+   font-size: 33px;
+   margin-left: 14%;
+}
+
+
+
+
+.blok1{
+ 
+    height: 54%;
+    width: 90%;
+    margin: 4%;
+    float: inline-end;
+    float: left;
+    border-radius: 35%;
+  /*  border: 2px solid rgb(0, 255, 42); /* Параметры рамки */
+}
+
+
+
+
+.png1{
+    width: 100%;
+}
